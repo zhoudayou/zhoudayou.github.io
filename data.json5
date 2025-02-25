@@ -53,7 +53,7 @@
       },
       // key - value 数量及内容完全自定义，链接自动识别
       keys: {
-        "主页": "https://www.zhoudayou.xin(申请中，客官莫急)",
+        "主页": "https://zhoudayou.github.io",
         "CSDN博客": "https://blog.csdn.net/m0_74733149?type=blog",
         "gitee": "https://gitee.com/qq1768907407",
         "微信号": "STBZ-8"
